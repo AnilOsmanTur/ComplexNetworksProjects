@@ -11,7 +11,7 @@ Facebook ego network dataset used for network analysis project
 
 - Graphs folder contains drawn graphs from facebook-ego net dataset
 
-- Networks analysis with neworkx [notebook](Networkx%20Network%20Analyze.html)
+- Networks analysis with neworkx [notebook](Networkx%20Network%20Analyze.ipynb)
 
 ## The Resulted Graph Examples
 1.
